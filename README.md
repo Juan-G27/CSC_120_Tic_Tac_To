@@ -1,1 +1,1 @@
-# CSC_120_Tic_Tac_To
+# CSC_120_Tic_Tac_Toe
